@@ -6,7 +6,7 @@
 
 ## Features:
 - Detects the face in an image.
-- Places a stylish sunglass overlay perfectly on the face.
+- Places a stylish sunglass overlay perfectly on the face. 
 - Works seamlessly with individual passport-size photos.
 - Customizable for different sunglasses styles or photo types.
 
