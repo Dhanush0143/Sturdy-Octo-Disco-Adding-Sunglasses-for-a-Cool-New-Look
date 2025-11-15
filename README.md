@@ -63,7 +63,8 @@ plt.imshow(glassBGR[:,:,::-1])  # BGR → RGB
 plt.title('Sunglass Color channels')
 ```
 
-![WhatsApp Image 2025-09-13 at 14 17 29_53fe363d](https://github.com/user-attachments/assets/f373eb3d-b1fc-4d16-a10f-98332ca1ba18)
+<img width="1228" height="185" alt="image" src="https://github.com/user-attachments/assets/0fd5496c-e5a1-4b70-a1a5-329b19921917" />
+
 
 
 
@@ -75,7 +76,7 @@ plt.title('Sunglass Mask (generated)')
 ```
 
 
-![WhatsApp Image 2025-09-13 at 14 15 23_0c35ea66](https://github.com/user-attachments/assets/1c45a1d1-a53c-4372-b601-35a82c490f20)
+<img width="425" height="467" alt="image" src="https://github.com/user-attachments/assets/c11ae880-37b9-49a6-a560-e535da0176ec" />
 
 
 ```
@@ -124,4 +125,4 @@ else:
     plt.show()
 ```
 
-![WhatsApp Image 2025-09-13 at 14 12 51_e9b5c2ea](https://github.com/user-attachments/assets/20c31dd2-5f20-4fe1-bd8e-95ebb3ca4074)
+<img width="1101" height="671" alt="image" src="https://github.com/user-attachments/assets/041a3300-0f7b-4c5b-8d19-dc0c991680c3" />
